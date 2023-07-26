@@ -1,4 +1,4 @@
-til.Scanner;
+import java.util.Scanner;
 public class WashingMachineTesting {
 	public static void main(String[] args) {
 
